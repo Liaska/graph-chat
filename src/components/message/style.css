@@ -1,0 +1,19 @@
+.message {
+  background-color: cadetblue;
+  border: 1px solid rgba(0, 0, 0, 1);
+  width: 250px;
+  border-radius: 15px;
+  color: white;
+  padding: 15px;
+  margin-bottom: 25px;
+}
+
+.isAuthor {
+  margin-left: auto;
+}
+
+.message-content {
+  margin: 0;
+  margin-left: auto;
+  width: fit-content;
+}
